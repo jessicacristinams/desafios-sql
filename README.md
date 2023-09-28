@@ -1,2 +1,2 @@
-# desafios-sql
-Este repositório contém anotações de estudo e desafios de SQL
+###  desafios-sql
+Este repositório contém minhas anotações de estudo e desafios de SQL ✌️
