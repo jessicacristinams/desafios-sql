@@ -1,4 +1,17 @@
+-- SQL Server, Postgres, Oracle, mySQL
 
+-- comentários 
+
+/*
+para comentários com
+quebra de linha
+*/ 
+
+/* 
+= IGUAL A
+<> DIFERENTE DE (ou pode ser usado também !=)
+
+*/ 
 
 SELECT coluna1,coluna2 -- seleciona somente as colunas1 e 2 da tabela --
 FROM tabela
